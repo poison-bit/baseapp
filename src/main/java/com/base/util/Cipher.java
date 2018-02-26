@@ -10,7 +10,7 @@ import sun.misc.BASE64Encoder;
  *
  */
 public class Cipher {
-	/**
+	/** 
 	 * 对字符窜进行加密
 	 * @param str
 	 * @return
